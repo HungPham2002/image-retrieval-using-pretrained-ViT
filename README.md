@@ -6,12 +6,11 @@ An image retrieval system is a computer system used for browsing, searching and 
 
 ## Project Statement: 
 
-Given a list of images, build an image retrieval system that finds relevant or similar images among
-the source images compared to the query image.
+Given a list of images, build an image retrieval system that finds relevant or similar images among the source images compared to the query image.
 
 ## Modern Aproaching: 
 
-![Modern Approaching]()
+![Modern Approaching](https://github.com/HungPham2002/image-retrieval-using-pretrained-ViT/blob/main/figs/modern_approaching.png)
 
 Feature Extractor: A component (typically a network) that is automatically identifying and extracting meaningful features from raw image data. Some well-known extractor are:
   - Digital Image Processing: HOG, SIFT...
@@ -22,6 +21,11 @@ Feature Extractor: A component (typically a network) that is automatically ident
 Vision Transformer (ViT): A deep learning architecture designed for image classification tasks. ViT deviates from traditional CNNs by using a transformer-based architecture.
 
 ❖ Paper: https://arxiv.org/pdf/2010.11929.pdf
+
+# Idea
+![idea](https://github.com/HungPham2002/image-retrieval-using-pretrained-ViT/blob/main/figs/idea.png)
+
+![idea](https://github.com/HungPham2002/image-retrieval-using-pretrained-ViT/blob/main/figs/Idea1.png)
 
 ## Dataset:
 Download dataset or add shortcut if using Google Colab: <a href="https://drive.google.com/file/d/1Q0quEfLdfBYv9pJ8LJtmCGTizKr2jG-Z/view">here</a>
