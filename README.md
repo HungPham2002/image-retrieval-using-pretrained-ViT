@@ -31,3 +31,4 @@ Vision Transformer (ViT): A deep learning architecture designed for image classi
 Download dataset or add shortcut if using Google Colab: <a href="https://drive.google.com/file/d/1Q0quEfLdfBYv9pJ8LJtmCGTizKr2jG-Z/view">here</a>
 
 ## Demo
+![Demo](https://github.com/HungPham2002/image-retrieval-using-pretrained-ViT/blob/main/figs/demo.png)
